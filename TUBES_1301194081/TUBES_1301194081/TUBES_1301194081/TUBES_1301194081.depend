@@ -1,0 +1,99 @@
+# depslib dependency file v1.0
+1586811424 source:d:\tugas\debugdwi\main.cpp
+	"TUBESDWIJLAL.h"
+
+1586836702 d:\tugas\debugdwi\tubesdwijlal.h
+	<iostream>
+	<stdlib.h>
+	<string>
+
+1586837249 source:d:\tugas\debugdwi\print_menu.cpp
+	"TUBESDWIJLAL.h"
+
+1586837448 source:d:\tugas\debugdwi\tubesdwijlal.cpp
+	"TUBESDWIJLAL.h"
+
+1586811424 source:e:\debugdwi\main.cpp
+	"TUBESDWIJLAL.h"
+
+1586836702 e:\debugdwi\tubesdwijlal.h
+	<iostream>
+	<stdlib.h>
+	<string>
+
+1586837907 source:e:\debugdwi\print_menu.cpp
+	"TUBESDWIJLAL.h"
+
+1586996487 source:e:\debugdwi\tubesdwijlal.cpp
+	"TUBESDWIJLAL.h"
+
+1586998028 source:c:\c++\debugtubesdwij\debugdwi\main.cpp
+	"TUBESDWIJLAL.h"
+
+1586998019 c:\c++\debugtubesdwij\debugdwi\tubesdwijlal.h
+	<iostream>
+	<stdlib.h>
+	<string>
+
+1586998972 source:c:\c++\debugtubesdwij\debugdwi\print_menu.cpp
+	"TUBESDWIJLAL.h"
+
+1587000500 source:c:\c++\debugtubesdwij\debugdwi\tubesdwijlal.cpp
+	"TUBESDWIJLAL.h"
+
+1586998028 source:c:\c++\tubeshampirfixbanget\debugdwi\main.cpp
+	"TUBESDWIJLAL.h"
+
+1586998019 c:\c++\tubeshampirfixbanget\debugdwi\tubesdwijlal.h
+	<iostream>
+	<stdlib.h>
+	<string>
+
+1587000560 source:c:\c++\tubeshampirfixbanget\debugdwi\print_menu.cpp
+	"TUBESDWIJLAL.h"
+
+1587000500 source:c:\c++\tubeshampirfixbanget\debugdwi\tubesdwijlal.cpp
+	"TUBESDWIJLAL.h"
+
+1587823495 source:c:\c++\tubeshampirfixbanget\tubeshampirfixbanget\debugdwi\main.cpp
+	"TUBESDWIJLAL.h"
+
+1587824924 c:\c++\tubeshampirfixbanget\tubeshampirfixbanget\debugdwi\tubesdwijlal.h
+	<iostream>
+	<stdlib.h>
+	<string>
+
+1587824463 source:c:\c++\tubeshampirfixbanget\tubeshampirfixbanget\debugdwi\print_menu.cpp
+	"TUBESDWIJLAL.h"
+
+1587823800 source:c:\c++\tubeshampirfixbanget\tubeshampirfixbanget\debugdwi\tubesdwijlal.cpp
+	"TUBESDWIJLAL.h"
+
+1587829841 source:c:\c++\tubeshampirfixbanget\tubeshampirfixbanget\debugdwi\body_dwijlal.cpp
+	"header_DWIJLAL.h"
+
+1587825375 source:c:\c++\tubeshampirfixbanget\tubeshampirfixbanget\debugdwi\main_dwijlal.cpp
+	"header_DWIJLAL.h"
+
+1587830108 source:c:\c++\tubeshampirfixbanget\tubeshampirfixbanget\debugdwi\print_menu_dwijlal.cpp
+	"header_DWIJLAL.h"
+
+1587827382 c:\c++\tubeshampirfixbanget\tubeshampirfixbanget\debugdwi\header_dwijlal.h
+	<iostream>
+	<stdlib.h>
+	<string>
+
+1587829841 source:c:\c++\tubes_1301194081\tubes_1301194081\tubes_1301194081\body_dwijlal.cpp
+	"header_DWIJLAL.h"
+
+1587827382 c:\c++\tubes_1301194081\tubes_1301194081\tubes_1301194081\header_dwijlal.h
+	<iostream>
+	<stdlib.h>
+	<string>
+
+1587825375 source:c:\c++\tubes_1301194081\tubes_1301194081\tubes_1301194081\main_dwijlal.cpp
+	"header_DWIJLAL.h"
+
+1587830108 source:c:\c++\tubes_1301194081\tubes_1301194081\tubes_1301194081\print_menu_dwijlal.cpp
+	"header_DWIJLAL.h"
+
